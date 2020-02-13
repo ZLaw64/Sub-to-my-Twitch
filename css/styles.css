@@ -1,0 +1,16 @@
+/* Whole Page */
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+/* Navbar */
+.nav-container {
+    list-style: none;
+    color: blue;
+}
+
+a.nav-links {
+    text-decoration: none;
+    color: blue;
+}
