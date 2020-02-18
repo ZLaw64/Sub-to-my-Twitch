@@ -7,10 +7,32 @@
 /* Navbar */
 .nav-container {
     list-style: none;
-    color: blue;
 }
 
 a.nav-links {
     text-decoration: none;
+    color:rgb(0, 0, 0);
+}
+
+a.nav-links:hover {
+    font-size: 2em;
+    color: blue;
+}
+
+/* Footer Bar */
+.footer-container {
+    list-style-type: none;
+    display: inline;
+
+}
+
+footer a.footer-links {
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    display: inline-block;
+}
+
+a.footer-links:hover {
+    font-size: 2em;
     color: blue;
 }
